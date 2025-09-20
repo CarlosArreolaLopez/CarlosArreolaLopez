@@ -2,7 +2,7 @@
 
 I'm Admin DB Sql Server, Desarrollador,Profesor 
 
-🎓 P.A.S. Desarrollo y analis de sistemas (ITEC)
+🎓 P.A.S. Desarrollo y analis de sistemas (ITEC)/n
 🎓 T.S.U. Redes de computadoras (UDG)
 🎓 Ing. Sistemas Computacionales (UNIISTE)
 
