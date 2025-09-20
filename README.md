@@ -11,15 +11,15 @@ I'm Admin DB Sql Server, Desarrollador,Profesor
 
 Languajes Tecnologias:
 - Lenguajes
- - Java
- - Python
- - Javascript
- - C ++
- - C #
- - RM-Cobol
- - CLIPPER
- - PASCAL
- - Visual Basic
+   - Java
+   - Python
+   - Javascript
+   - C ++
+   - C #
+   - RM-Cobol
+   - CLIPPER
+   - PASCAL
+   - Visual Basic
 - Bases de Datos
   - SQL Server
   - MySQL Server
