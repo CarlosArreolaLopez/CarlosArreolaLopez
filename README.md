@@ -1,14 +1,29 @@
-## Hi, Mi Juan Carlos Arreola Lopez
-#olaLopez/CarlosArreolaLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi Juan Carlos Arreola Lopez
 
-Here are some ideas to get you started:
+I'm Admin DB Sql Server, Desarrollador,Profesor 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 P.A.S. Desarrollo y analis de sistemas (ITEC)
+🎓 T.S.U. Redes de computadoras (UDG)
+🎓 Ing. Sistemas Computacionales (UNIISTE)
+
+Languajes Tecnologias:
+- Lenguajes
+ - Java
+ - Python
+ - Javascript
+ - C ++
+ - C #
+ - RM-Cobol
+ - CLIPPER
+ - PASCAL
+ - Visual Basic
+- Bases de Datos
+  - SQL Server
+  - MySQL Server
+  - SQLite
+- Infraestructuras
+  - Linux
+  - Windows Server
+- Certificaciones 
+  - SQLServer
+  - Oracle
