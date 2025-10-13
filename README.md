@@ -6,7 +6,7 @@ I'm Admin DB Sql Server, Desarrollador,Profesor
 
 🎓 T.S.U. Redes de computadoras (UDG)
 
-🎓 Ing. Sistemas Computacionales (UNIISTE)
+🎓 Ing. Sistemas Computacionales (UNISTE)
 
 
 Languajes Tecnologias:
