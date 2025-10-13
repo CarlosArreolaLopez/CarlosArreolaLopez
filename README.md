@@ -13,6 +13,7 @@ Languajes Tecnologias:
 - Lenguajes
    - Java
    - Python
+   - App Script
    - Javascript
    - C ++
    - C #
@@ -23,6 +24,7 @@ Languajes Tecnologias:
 - Bases de Datos
   - SQL Server
   - MySQL Server
+  - Biguqery
   - SQLite
 - Infraestructuras
   - Linux
