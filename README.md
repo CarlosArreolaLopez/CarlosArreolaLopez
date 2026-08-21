@@ -24,6 +24,7 @@ Languajes Tecnologias:
 - Bases de Datos
   - SQL Server
   - MySQL Server
+  - PostgreSQL
   - Biguqery
   - SQLite
 - Infraestructuras
